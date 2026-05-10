@@ -117,7 +117,7 @@ downloads/
 
 ایده اولیه رو از ریپوی عالی [github-sandbox](https://github.com/maanimis/github-sandbox) گرفتم. ممنون از ایده خلاقانه‌شون!
 
-و همین‌طور از [Patterniha](https://github.com/patterniha) بابت پروژه MITM-DomainFronting.
+و همین‌طور از [Patterniha].(https://github.com/patterniha) بابت پروژه MITM-DomainFronting.
 
 
 ## 🎁 حمایت مالی
